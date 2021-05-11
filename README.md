@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently working on my personal projects.
-- 🌱 I’m currently learning MVVM ( in JAVA and Kotlin) & Flutter.
+- 🌱 I’m currently learning ANDROID JETPACK COMPOSE ( in JAVA and Kotlin ) & Flutter.
 - 👯 I’m looking to collaborate on Java and flutter.
 - 🤔 I’m looking for help with flutter.
 

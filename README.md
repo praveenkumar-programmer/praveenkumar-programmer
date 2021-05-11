@@ -5,7 +5,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Praveen_Kumar-grey?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/Harishwarrior)](https://t.me/praveenkumarkpk)
 
 
-- 🔭 I’m currently working on my final year project.
+- 🔭 I’m currently working on my personal projects.
 - 🌱 I’m currently learning MVVM ( in JAVA and Kotlin) & Flutter.
 - 👯 I’m looking to collaborate on Java and flutter.
 - 🤔 I’m looking for help with flutter.
